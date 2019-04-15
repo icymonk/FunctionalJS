@@ -1,0 +1,34 @@
+{
+  "name": "@icymonk/fnjs",
+  "version": "0.0.3",
+  "description": "FunctionalJS",
+  "keywords": [
+    "functional",
+    "javascript",
+    "lisp",
+    "promise",
+    "node"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icymonk/functional-js.git"
+  },
+  "author": "icymonk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icymonk/functional-js/issues"
+  },
+  "homepage": "https://github.com/icymonk/functional-js#readme",
+  "main": "index.js",
+  "prettier": {
+    "printWidth": 80,
+    "useTabs": false,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "semi": false,
+    "trailingComma": "all"
+  }
+}
